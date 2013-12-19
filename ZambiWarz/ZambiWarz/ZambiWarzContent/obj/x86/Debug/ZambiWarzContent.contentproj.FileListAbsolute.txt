@@ -1,0 +1,3 @@
+C:\Users\Max\Dropbox\cs\ZambiWarz\ZambiWarz\ZambiWarzContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\cs\ZambiWarz\ZambiWarz\ZambiWarzContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Max\Dropbox\code\cs\ZambiWarz\ZambiWarz\ZambiWarzContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZambiWarz", "ZambiWarz\ZambiWarz\ZambiWarz.csproj", "{4322930E-F5A8-4661-9BD5-19D65BF84C62}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ZambiWarzContent", "ZambiWarz\ZambiWarzContent\ZambiWarzContent.contentproj", "{CF5E0B6F-9978-4696-BEF9-0607D19D374B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4322930E-F5A8-4661-9BD5-19D65BF84C62}.Debug|x86.ActiveCfg = Debug|x86
+		{4322930E-F5A8-4661-9BD5-19D65BF84C62}.Debug|x86.Build.0 = Debug|x86
+		{4322930E-F5A8-4661-9BD5-19D65BF84C62}.Release|x86.ActiveCfg = Release|x86
+		{4322930E-F5A8-4661-9BD5-19D65BF84C62}.Release|x86.Build.0 = Release|x86
+		{CF5E0B6F-9978-4696-BEF9-0607D19D374B}.Debug|x86.ActiveCfg = Debug|x86
+		{CF5E0B6F-9978-4696-BEF9-0607D19D374B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
